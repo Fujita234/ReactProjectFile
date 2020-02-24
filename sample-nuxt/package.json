@@ -1,0 +1,20 @@
+{
+  "name": "sample-nuxt",
+  "version": "1.0.0",
+  "description": "My swell Nuxt.js project",
+  "author": "Fujita234",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxt/typescript-runtime": "^0.3.9",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "@nuxt/typescript-build": "^0.5.7"
+  }
+}
